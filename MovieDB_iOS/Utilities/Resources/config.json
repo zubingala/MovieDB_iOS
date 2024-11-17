@@ -1,0 +1,6 @@
+{
+    "api_key": "35509dcfde79d957005129a4d24f13bd",
+    "base_url": "https://api.themoviedb.org/3",
+    "images_path": "http://image.tmdb.org/t/p/",
+    "config_path": "https://api.themoviedb.org/3/configuration"
+}
